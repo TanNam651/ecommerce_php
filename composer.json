@@ -1,0 +1,9 @@
+{
+    "require": {
+        "ramsey/uuid": "^4.7",
+        "phpmailer/phpmailer": "^6.9",
+        "symfony/mailer": "^7.2",
+      "ext-pdo": "*",
+      "ext-json": "*"
+    }
+}

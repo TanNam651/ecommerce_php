@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "stylelint": "^16.16.0",
+    "stylelint-config-standard": "^37.0.0"
+  },
+  "dependencies": {
+    "ckeditor5": "^45.0.0"
+  }
+}
