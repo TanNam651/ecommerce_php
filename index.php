@@ -30,10 +30,9 @@
   session_start();
   $config = require_once "config/config.php";
   include("config/config.php");
-//  include("layout/header.php");
   include("views/main/main.php");
-//  include("layout/footer.php");
   ?>
+
   <div class="modal-backdrop fade"></div>
 
 <script src="/scripts/script.js"></script>
